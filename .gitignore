@@ -1,0 +1,5 @@
+.venv
+Pearl.egg-info
+.python-version
+.vscode
+**/__pycache__
